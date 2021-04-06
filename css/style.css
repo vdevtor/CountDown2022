@@ -30,6 +30,9 @@ h1{
 .contdown-container{
 	color: white;
 	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
 }
 
 .big-text{
